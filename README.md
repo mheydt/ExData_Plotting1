@@ -1,10 +1,9 @@
 ## Exploratory Data Analysis Programming Assignment 1
 
-Description of .txt files
-* <b>household_power_consumption.txt</b>: Data source for all plots
+First, I have not included the data file in the repository.  If you actually run this, you will need the the <b>household_power_consumption.txt</b>.  That is available at https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
 
 Description of .R files
-* <b>shared.R<b>: Contains the bulk of the code for manipulating data and generating the specific graphs.
+* <b>shared.R</b>: Contains the bulk of the code for manipulating data and generating the specific graphs.
 * <b>plot1.R</b>: Reads shared.R and generates plot1.png
 * <b>plot2.R</b>: Reads shared.R and generates plot2.png
 * <b>plot3.R</b>: Reads shared.R and generates plot3.png
@@ -23,5 +22,10 @@ In R, load the .R file associated with the plot you want to generate.  As an exa
 ## For your convenience: the plots
 
 ### Plot 1
-
 ![plot 1](plot1.png) 
+### Plot 2
+![plot 1](plot2.png) 
+### Plot 3
+![plot 1](plot3.png) 
+### Plot 4
+![plot 1](plot4.png) 
