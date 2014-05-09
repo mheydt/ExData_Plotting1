@@ -1,0 +1,6 @@
+source("shared.R")
+data <- build_data()
+create_plot1(data)
+create_plot2(data)
+create_plot3(data)
+create_plot4(data)
